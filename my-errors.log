@@ -1,0 +1,34 @@
+[20-Oct-2022 20:37:37 Europe/Moscow] This is an error message!
+[20-Oct-2022 20:37:39 Europe/Moscow] This is an error message!
+[20-Oct-2022 20:37:39 Europe/Moscow] PHP Warning:  include(?view=cats&amp;id=): failed to open stream: No error in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:37:39 Europe/Moscow] PHP Warning:  include(): Failed opening '?view=cats&amp;id=' for inclusion (include_path='.') in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:38:19 Europe/Moscow] This is an error message!
+[20-Oct-2022 20:38:19 Europe/Moscow] PHP Warning:  include(?view=cats&amp;id=): failed to open stream: No error in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:38:19 Europe/Moscow] PHP Warning:  include(): Failed opening '?view=cats&amp;id=' for inclusion (include_path='.') in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:39:19 Europe/Moscow] This is an error message!
+[20-Oct-2022 20:39:19 Europe/Moscow] PHP Warning:  include(?view=cats&amp;id=): failed to open stream: No error in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:39:19 Europe/Moscow] PHP Warning:  include(): Failed opening '?view=cats&amp;id=' for inclusion (include_path='.') in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:39:23 Europe/Moscow] This is an error message!
+[20-Oct-2022 20:39:23 Europe/Moscow] PHP Warning:  include(?view=cats&amp;id=): failed to open stream: No error in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:39:23 Europe/Moscow] PHP Warning:  include(): Failed opening '?view=cats&amp;id=' for inclusion (include_path='.') in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:39:23 Europe/Moscow] This is an error message!
+[20-Oct-2022 20:39:23 Europe/Moscow] PHP Warning:  include(?view=cats&amp;id=): failed to open stream: No error in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:39:23 Europe/Moscow] PHP Warning:  include(): Failed opening '?view=cats&amp;id=' for inclusion (include_path='.') in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:39:23 Europe/Moscow] This is an error message!
+[20-Oct-2022 20:39:23 Europe/Moscow] PHP Warning:  include(?view=cats&amp;id=): failed to open stream: No error in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:39:23 Europe/Moscow] PHP Warning:  include(): Failed opening '?view=cats&amp;id=' for inclusion (include_path='.') in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:39:23 Europe/Moscow] This is an error message!
+[20-Oct-2022 20:39:23 Europe/Moscow] PHP Warning:  include(?view=cats&amp;id=): failed to open stream: No error in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:39:23 Europe/Moscow] PHP Warning:  include(): Failed opening '?view=cats&amp;id=' for inclusion (include_path='.') in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:39:24 Europe/Moscow] This is an error message!
+[20-Oct-2022 20:39:24 Europe/Moscow] PHP Warning:  include(?view=cats&amp;id=): failed to open stream: No error in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:39:24 Europe/Moscow] PHP Warning:  include(): Failed opening '?view=cats&amp;id=' for inclusion (include_path='.') in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:39:24 Europe/Moscow] This is an error message!
+[20-Oct-2022 20:39:24 Europe/Moscow] PHP Warning:  include(?view=cats&amp;id=): failed to open stream: No error in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:39:24 Europe/Moscow] PHP Warning:  include(): Failed opening '?view=cats&amp;id=' for inclusion (include_path='.') in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:42:39 Europe/Moscow] This is an error message!
+[20-Oct-2022 20:42:39 Europe/Moscow] PHP Warning:  include(?view=cats&amp;id=): failed to open stream: No error in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:42:39 Europe/Moscow] PHP Warning:  include(): Failed opening '?view=cats&amp;id=' for inclusion (include_path='.') in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:47:44 Europe/Moscow] This is an error message!
+[20-Oct-2022 20:47:44 Europe/Moscow] PHP Warning:  include(?view=cats&amp;id=): failed to open stream: No error in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
+[20-Oct-2022 20:47:44 Europe/Moscow] PHP Warning:  include(): Failed opening '?view=cats&amp;id=' for inclusion (include_path='.') in W:\domains\localhost\webstore\views\theme\pages\index.php on line 13
